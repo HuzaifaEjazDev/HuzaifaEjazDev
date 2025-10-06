@@ -69,11 +69,11 @@ A mobile app enabling users to upload, buy, rent, borrow, and share books. Featu
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=HuzaifaOffcial&theme=radical&show_icons=true&hide_border=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=HuzaifaEjazDev&theme=radical&show_icons=true&hide_border=false&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=HuzaifaOffcial&theme=radical&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=HuzaifaEjazDev&theme=radical&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HuzaifaOffcial&theme=radical&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HuzaifaEjazDev&theme=radical&hide_border=false&layout=compact)
 
 
 ## 🌐 Live Portfolio & CV
