@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/HuzaifaOffcial">
+  <a href="https://github.com/HuzaifaEjazDev">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Huzaifa+Ejaz+Kahlon;Cross-Platform+App+Developer+%28Flutter%29" alt="Typing SVG" />
   </a>
 </p>
@@ -23,7 +23,6 @@ I focus on:
 
 I’m eager to continue developing my skills, contribute to impactful projects, and create applications that offer genuine value to users.
 
-
 ---
 
 ## 🛠️ Skills
@@ -46,7 +45,6 @@ I’m eager to continue developing my skills, contribute to impactful projects, 
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-%23000000.svg?style=flat)
 ![OpenRouter API](https://img.shields.io/badge/OpenRouter%20API-%2300A4EF.svg?style=flat)
 
-
 ---
 
 ## 🚀 Projects
@@ -61,9 +59,9 @@ A mobile app enabling users to upload, buy, rent, borrow, and share books. Featu
 
 ## 📫 Contact Me
 
-- **Email:** huzaifaejazdev@gmail.com   
+- **Email:** huzaifaejazdev@gmail.com  
 - **LinkedIn:** [linkedin.com/in/huzaifaejazkahlon](https://www.linkedin.com/in/huzaifaejazkahlon/)  
-- **GitHub:** [github.com/HuzaifaOffcial](https://github.com/HuzaifaOffcial)
+- **GitHub:** [github.com/HuzaifaEjazDev](https://github.com/HuzaifaEjazDev)
 
 ---
 
@@ -75,9 +73,8 @@ A mobile app enabling users to upload, buy, rent, borrow, and share books. Featu
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HuzaifaEjazDev&theme=radical&hide_border=false&layout=compact)
 
+---
 
 ## 🌐 Live Portfolio & CV
 
 You can view the full portfolio website [here](#) and download my CV [here](CV.pdf).
-
----
