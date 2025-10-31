@@ -77,4 +77,4 @@ A mobile app enabling users to upload, buy, rent, borrow, and share books. Featu
 
 ## 🌐 Live Portfolio & CV
 
-You can view the full portfolio website [here](#) and download my CV [here](Huzaifa CV..pdf).
+You can view the full portfolio website [here](#) and download my CV [here](HuzaifaCV.pdf).
