@@ -4,7 +4,7 @@
   </a>
 </p>
 
-I’m a motivated **Junior Mobile App Developer** based in Pakistan, specializing in **cross-platform development** using **Flutter, Dart, Firebase, and RESTful APIs**.  
+I’m a motivated **Flutter Developer** based in Pakistan, specializing in **cross-platform development** using **Flutter, Dart, Firebase, and RESTful APIs**.  
 Currently in the early stages of my professional journey, I am **dedicated to continuous learning** and passionate about creating user-friendly, efficient, and visually appealing applications.  
 Through my recent projects and practical experience, I have developed strong problem-solving skills and a solid foundation in mobile app development.
 
@@ -12,7 +12,7 @@ Through my recent projects and practical experience, I have developed strong pro
 
 ## 🔍 About Me
 
-I am an **emerging Mobile Application Developer** with a growing expertise in **Flutter** and backend integration using **Firebase**.  
+I am an **Flutter Developer** with a growing expertise in **Flutter** and backend integration using **Firebase**.  
 My journey began with a curiosity for technology and a drive to build apps that provide meaningful solutions. Over time, I have transformed that curiosity into practical skills by working on **real-world projects** and engaging in hands-on learning experiences.
 
 I focus on:
