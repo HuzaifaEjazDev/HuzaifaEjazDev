@@ -30,7 +30,7 @@ I’m eager to continue developing my skills, contribute to impactful projects, 
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
-![RESTFULL API's](https://img.shields.io/badge/REST%20API-%23000000.svg?style=flat)
+![RESTFULL API's](https://img.shields.io/badge/RESTFULL%20API's-%23000000.svg?style=flat)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=flat)
